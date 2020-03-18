@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AP-coursework-front-end/static/css/main.4ea85f98.chunk.css",
+    "main.js": "/AP-coursework-front-end/static/js/main.83954de3.chunk.js",
+    "main.js.map": "/AP-coursework-front-end/static/js/main.83954de3.chunk.js.map",
+    "runtime-main.js": "/AP-coursework-front-end/static/js/runtime-main.44fcde36.js",
+    "runtime-main.js.map": "/AP-coursework-front-end/static/js/runtime-main.44fcde36.js.map",
+    "static/js/2.3022bb85.chunk.js": "/AP-coursework-front-end/static/js/2.3022bb85.chunk.js",
+    "static/js/2.3022bb85.chunk.js.map": "/AP-coursework-front-end/static/js/2.3022bb85.chunk.js.map",
+    "index.html": "/AP-coursework-front-end/index.html",
+    "precache-manifest.4dbc15464a35ddc97aea18c3968329b4.js": "/AP-coursework-front-end/precache-manifest.4dbc15464a35ddc97aea18c3968329b4.js",
+    "service-worker.js": "/AP-coursework-front-end/service-worker.js",
+    "static/css/main.4ea85f98.chunk.css.map": "/AP-coursework-front-end/static/css/main.4ea85f98.chunk.css.map",
+    "static/js/2.3022bb85.chunk.js.LICENSE.txt": "/AP-coursework-front-end/static/js/2.3022bb85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44fcde36.js",
+    "static/js/2.3022bb85.chunk.js",
+    "static/css/main.4ea85f98.chunk.css",
+    "static/js/main.83954de3.chunk.js"
+  ]
+}
